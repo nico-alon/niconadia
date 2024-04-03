@@ -24,3 +24,7 @@ Listo, con esto tenemos nuestro repo en github con lo que hayamos subido
 * git remote set-url origin <ULR_CORRECTA>
 
 *git status
+
+**Para ver que origen remoto tengo**
+
+    *git remote -v
